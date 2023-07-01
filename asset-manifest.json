@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HackerBytes-2/static/css/main.30b398f7.css",
+    "main.js": "/HackerBytes-2/static/js/main.97cfd34d.js",
+    "static/js/787.023287be.chunk.js": "/HackerBytes-2/static/js/787.023287be.chunk.js",
+    "static/media/background.jpg": "/HackerBytes-2/static/media/background.bf4cacbdcaee41b414de.jpg",
+    "static/media/logo.png": "/HackerBytes-2/static/media/logo.23385c462b3b6c148562.png",
+    "index.html": "/HackerBytes-2/index.html",
+    "main.30b398f7.css.map": "/HackerBytes-2/static/css/main.30b398f7.css.map",
+    "main.97cfd34d.js.map": "/HackerBytes-2/static/js/main.97cfd34d.js.map",
+    "787.023287be.chunk.js.map": "/HackerBytes-2/static/js/787.023287be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b398f7.css",
+    "static/js/main.97cfd34d.js"
+  ]
+}
